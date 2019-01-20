@@ -1,0 +1,436 @@
+{
+ "options": {
+  "directed": true,
+  "multigraph": false,
+  "compound": false
+ },
+ "nodes": [
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=137002",
+   "value": {
+    "name": "Janina Kotus ",
+    "uni": "Politechnika Warszawska",
+    "year": "1983",
+    "image": "http://szok.mini.pw.edu.pl/photos/kotus_janina.jpg"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=69809",
+   "value": {
+    "name": "Karol Krzyżewski ",
+    "uni": "Politechnika Warszawska",
+    "year": "ska "
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=22600",
+   "value": {
+    "name": "Roman Sikorski ",
+    "uni": "Uniwersytet Warszawski",
+    "year": "1949",
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/14/Roman_Sikorski.gif",
+    "wikiUrl": "https://pl.wikipedia.org/wiki/Roman_Sikorski"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=489",
+   "value": {
+    "name": "Andrzej Mostowski ",
+    "uni": "Uniwersytet Warszawski",
+    "year": "1938",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/AndrzejMostowski73.jpg",
+    "wikiUrl": "https://pl.wikipedia.org/wiki/Andrzej_Mostowski"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=24546",
+   "value": {
+    "name": "Kazimierz Kuratowski ",
+    "uni": "Uniwersytet Warszawski",
+    "year": "1921",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Kazimierz_Kuratowski.jpg",
+    "wikiUrl": "https://pl.wikipedia.org/wiki/Kazimierz_Kuratowski"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=12547",
+   "value": {
+    "name": "Stefan Mazurkiewicz ",
+    "uni": "University of Lwów",
+    "year": "1913",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Stefan_Mazurkiewicz.jpg",
+    "wikiUrl": "https://pl.wikipedia.org/wiki/Stefan_Mazurkiewicz"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=12545",
+   "value": {
+    "name": "Wacław Sierpiński ",
+    "uni": "Uniwersytet Jagielloński",
+    "year": "1906",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Wac%C5%82aw_Sierpi%C5%84ski.jpg/173px-Wac%C5%82aw_Sierpi%C5%84ski.jpg",
+    "wikiUrl": "https://pl.wikipedia.org/wiki/Wac%C5%82aw_Sierpi%C5%84ski"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=123308",
+   "value": {
+    "name": "Stanisław Ruziewicz ",
+    "uni": "University of Lwów",
+    "year": "1913",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Ruziewicz_S.jpg",
+    "wikiUrl": "https://pl.wikipedia.org/wiki/Stanis%C5%82aw_Ruziewicz"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=7383",
+   "value": {
+    "name": "Hugo Dyonizy Steinhaus ",
+    "uni": "Georg-August-Universität Göttingen",
+    "year": "1911",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Hugo_Steinhaus.jpg/320px-Hugo_Steinhaus.jpg",
+    "wikiUrl": "https://pl.wikipedia.org/wiki/Hugo_Steinhaus"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=12548",
+   "value": {
+    "name": "Karol Borsuk ",
+    "uni": "Uniwersytet Warszawski",
+    "year": "1930",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Borsuk.jpeg",
+    "wikiUrl": "https://pl.wikipedia.org/wiki/Karol_Borsuk"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=7643",
+   "value": {
+    "name": "Samuel Eilenberg ",
+    "uni": "Uniwersytet Warszawski",
+    "year": "1936",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Samuel_Eilenberg_MFO.jpeg",
+    "wikiUrl": "https://pl.wikipedia.org/wiki/Samuel_Eilenberg"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=43524",
+   "value": {
+    "name": "Stanisław Saks ",
+    "uni": "Uniwersytet Warszawski",
+    "year": "1922",
+    "image": "http://www.aprender-mat.info/history/photos/Saks.jpeg",
+    "wikiUrl": "https://pl.wikipedia.org/wiki/Stanis%C5%82aw_Saks"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=12682",
+   "value": {
+    "name": "Stanisław Marcin Ulam ",
+    "uni": "Politechnika Lwowska",
+    "year": "1933",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Stanislaw_Ulam.tif/lossy-page1-165px-Stanislaw_Ulam.tif.jpg",
+    "wikiUrl": "https://pl.wikipedia.org/wiki/Stanis%C5%82aw_Ulam"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=60311",
+   "value": {
+    "name": "Włodzimierz Stożek ",
+    "uni": "Uniwersytet Jagielloński",
+    "year": "1922",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Sto%C5%BCek_W.jpg",
+    "wikiUrl": "https://pl.wikipedia.org/wiki/W%C5%82odzimierz_Sto%C5%BCek"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=12546",
+   "value": {
+    "name": "Stanisław Zaremba ",
+    "uni": "Université Paris IV-Sorbonne",
+    "year": "1889",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Stanislaw_Zareba_Polish_mathematician.jpg/339px-Stanislaw_Zareba_Polish_mathematician.jpg",
+    "wikiUrl": "https://pl.wikipedia.org/wiki/Stanis%C5%82aw_Zaremba_(1863%E2%80%931942)"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13347",
+   "value": {
+    "name": "Alfred Tarski ",
+    "uni": "Uniwersytet Warszawski",
+    "year": "1924",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/AlfredTarski1968.jpeg",
+    "wikiUrl": "https://pl.wikipedia.org/wiki/Alfred_Tarski"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13345",
+   "value": {
+    "name": "Stanisław Leśniewski ",
+    "uni": "University of Lwów",
+    "year": "1912",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Stanis%C5%82aw_Le%C5%9Bniewski.jpg",
+    "wikiUrl": "https://pl.wikipedia.org/wiki/Stanis%C5%82aw_Le%C5%9Bniewski"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=75416",
+   "value": {
+    "name": "Tadeusz Traczyk ",
+    "uni": "Politechnika Warszawska",
+    "year": "1963",
+    "wikiUrl": "https://pl.wikipedia.org/wiki/Tadeusz_Traczyk"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=162783",
+   "value": {
+    "name": "Piotr Gałązka ",
+    "uni": "Politechnika Warszawska",
+    "year": "2012"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=125944",
+   "value": {
+    "name": "Jacek Wesołowski ",
+    "uni": "Politechnika Warszawska",
+    "year": "1989"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=125947",
+   "value": {
+    "name": "Agnieszka Płucińska ",
+    "uni": "Uniwersytet Wrocławski",
+    "year": "1961"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=125997",
+   "value": {
+    "name": "Anna Dembińska ",
+    "uni": "Politechnika Warszawska",
+    "year": "2002"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=132815",
+   "value": {
+    "name": "Władysław Nikliborc ",
+    "uni": "University of Lwów",
+    "year": "1924",
+    "wikiUrl": "https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Nikliborc"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=126075",
+   "value": {
+    "name": "Anna B. Romanowska ",
+    "uni": "Politechnika Warszawska",
+    "year": "1973",
+    "image": "http://www.mini.pw.edu.pl/~aroman/templates/mini/images/photo.jpg"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=126078",
+   "value": {
+    "name": "Barbara Roszkowska-Lech ",
+    "uni": "Politechnika Warszawska",
+    "year": "1987",
+    "image": "http://3.bp.blogspot.com/-L4tCFllw3tE/VLKhzoNMmHI/AAAAAAAABfM/BYi0INmlip4/s1600/Barbara%2BRoszkowska-Lech.JPG"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=126085",
+   "value": {
+    "name": "Michał Marek Stronkowski ",
+    "uni": "Politechnika Warszawska",
+    "year": "2007",
+    "image": "https://i1.rgstatic.net/ii/profile.image/571479748481025-1513262797612_Q128/Michal_Stronkowski.jpg"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13056",
+   "value": {
+    "name": "Stanisław Mazur",
+    "uni": "University of Lwów",
+    "year": "1932",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Stanislaw_Mazur_Polish_mathematician.jpg",
+    "wikiUrl": "https://pl.wikipedia.org/wiki/Stanis%C5%82aw_Mazur"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=12681",
+   "value": {
+    "name": "Stefan Banach ",
+    "uni": "University of Lwów",
+    "year": "1920",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/%D8%B9%D8%A7%D9%84%D9%85_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%86%D8%AF%D9%89_%D8%B3%D8%AA%D9%8A%D9%81%D8%A7%D9%86_%D8%A8%D9%86%D8%A7%D8%AE.jpg/178px-%D8%B9%D8%A7%D9%84%D9%85_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%86%D8%AF%D9%89_%D8%B3%D8%AA%D9%8A%D9%81%D8%A7%D9%86_%D8%A8%D9%86%D8%A7%D8%AE.jpg",
+    "wikiUrl": "https://pl.wikipedia.org/wiki/Stefan_Banach"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13344",
+   "value": {
+    "name": "Kazimierz Twardowski",
+    "uni": "Universität Wien",
+    "year": "1891",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kazimierz_Twardowski_1933.jpg/800px-Kazimierz_Twardowski_1933.jpg",
+    "wikiUrl": "https://pl.wikipedia.org/wiki/Kazimierz_Twardowski"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=51907",
+   "value": {
+    "name": "Władysław Roman Orlicz ",
+    "uni": "University of Lwów",
+    "year": "1928",
+    "image": "https://persons-info.com/userfiles/image/persons/20000-30000/28000-29000/28423/ORLICH_Vladislav1.jpeg",
+    "wikiUrl": "https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Orlicz"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=162216",
+   "value": {
+    "name": "Zbigniew Lonc ",
+    "uni": "Politechnika Warszawska",
+    "year": "1982",
+    "image": "http://szok.mini.pw.edu.pl/photos/lonc_zbigniew.jpg"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=165970",
+   "value": {
+    "name": "Michal Tuczynski ",
+    "uni": "Politechnika Warszawska",
+    "year": "2012"
+   }
+  }
+ ],
+ "edges": [
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=69809",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=137002"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=22600",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=69809"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=489",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=22600"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=24546",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=489"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=12547",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=24546"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=12545",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=12547"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=12545",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=123308"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=12547",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=12548"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=12548",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=7643"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=24546",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=7643"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=12547",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=43524"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=24546",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=12682"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=60311",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=12682"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=12546",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=60311"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13347",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=489"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13345",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13347"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=22600",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=75416"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=137002",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=162783"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=125947",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=125944"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=7383",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=125947"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=125944",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=125997"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=12546",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=132815"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=75416",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=126075"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=126075",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=126078"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=126075",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=126085"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=12681",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13056"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=7383",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=12681"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13344",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=12681"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=7383",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=51907"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=75416",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=162216"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=162216",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=165970"
+  }
+ ]
+}
