@@ -103,7 +103,7 @@ var options = {
 class App extends Component {
   constructor(props) {
     super(props);
-    this.state = {isPaneOpen: false, loading: true};
+    this.state = {isPaneOpen: false, isPaneOpened: false};
     this.events = {
       select: this.selectNode.bind(this),
       hoverNode: () => {document.body.style.cursor = 'pointer'},
@@ -113,7 +113,6 @@ class App extends Component {
 
   componentDidMount() {
     Modal.setAppElement(this.el);
-    setTimeout(() => this.setState({loading: false}), 5000);
   }
 
   selectNode(event) {
@@ -121,9 +120,10 @@ class App extends Component {
     const {nodes} = event;
     if (nodes[0]) {
       const val = mapping[nodes[0]];
+      setTimeout(() => this.setState({isPaneOpened: true}), 100);
       this.setState({isPaneOpen: true, url: val.wikiUrl || nodes[0], name: val.name});
     } else {
-      this.setState({isPaneOpen: false});
+      this.setState({isPaneOpen: false, isPaneOpened: false});
     }
   }
 
@@ -142,7 +142,7 @@ class App extends Component {
           isOpen={this.state.isPaneOpen}
           title={this.state.name}
           onRequestClose={() => {
-            this.setState({isPaneOpen: false});
+            this.state.isPaneOpened && this.setState({isPaneOpen: false, isPaneOpened: false});
           }}>
           <Iframe url={this.mobilizeWikiUrl(this.state.url)}
                   width="100%"
