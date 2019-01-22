@@ -43,8 +43,14 @@
 }
 
 #title {
-  width: 100%;
+  /*width: 100%;*/
   text-align: center;
+}
+
+#title > div {
+  display: flex;
+  align-self: center;
+  justify-content: center;
 }
 
 #description {
@@ -54,4 +60,34 @@
   padding: 1vw;
   width: 30%;
   border: solid 1px gray;
+}
+
+#tooltip {
+  visibility: hidden;
+}
+
+@media (max-width: 600px) {
+  #tmp > #description, #tmp > #legend {
+    display: none;
+    color: #ffffff !important;
+  }
+
+  #legend {
+    position: relative;
+  }
+
+  #legend span {
+    color: #fff;
+  }
+
+  #tooltip {
+    visibility: unset;
+    background-color: slategrey;
+    color: #ffffff;
+    border-radius: 100%;
+    width: 20px;
+    height: 20px;
+    margin-top: 22px;
+    margin-left: 10px;
+  }
 }
