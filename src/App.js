@@ -10,6 +10,8 @@ import Description from "./components/Description";
 import Title from "./components/Title";
 import Authors from "./components/Authors";
 import Legend from "./components/Legend";
+import Select from "react-select";
+import NumericInput from "react-numeric-input";
 
 const pwWorkers = [
   'https://genealogy.math.ndsu.nodak.edu/id.php?id=162783',
@@ -79,6 +81,52 @@ const graph = {
   edges: data.edges.map(edge => ({from: edge.v, to: edge.w}))
 };
 
+const people = graph.nodes.map(x => ({value: x.id, label: x.label}));
+people.unshift({value: "all", label: "Everyone"});
+
+function reducedGraph(root, depth) {
+  function extend(current) {
+    let extended = current.slice();
+
+    for (let c of current) {
+      for (let e of graph.edges) {
+        if (c.id === e.from) {
+          extended.push(find(e.to));
+        } else if (c.id === e.to) {
+          extended.push(find(e.from));
+        }
+      }
+    }
+
+    return distinct(extended);
+  }
+
+  function find(id) {
+    return graph.nodes.find(x => x.id === id)
+  }
+
+  function distinct(values) {
+    return values.filter((v, i) => values.indexOf(v) === i);
+  }
+
+  let nodes = (root.value === "all") ? graph.nodes.slice() : [find(root.value)];
+  for (let i = 0; i < depth; i++) {
+    nodes = extend(nodes);
+  }
+
+  let edges = [];
+  for (let edge of graph.edges) {
+    if (nodes.find(x => x.id === edge.from) && nodes.find(x => x.id === edge.to)) {
+      edges.push(edge);
+    }
+  }
+
+  return {
+    nodes: nodes,
+    edges: edges
+  };
+}
+
 const mapping = data.nodes.reduce((acc, {v, value}) => ({...acc, [v]: value}), {});
 
 var options = {
@@ -107,7 +155,7 @@ var options = {
 class App extends Component {
   constructor(props) {
     super(props);
-    this.state = {isPaneOpen: false, isPaneOpened: false};
+    this.state = {isPaneOpen: false, isPaneOpened: false, person: {value: "all", label: "Everyone"}, depth: 10};
     this.events = {
       select: this.selectNode.bind(this),
       hoverNode: () => {document.body.style.cursor = 'pointer'},
@@ -138,14 +186,26 @@ class App extends Component {
     return url;
   }
 
+  onPersonChange(person) {
+    this.setState({...this.state, person: person})
+  }
+
+  onValueChange(value) {
+    this.setState({...this.state, depth: value})
+  }
+
   render() {
     return (
       <div ref={ref => this.el = ref} id='tmp'>
+        <div id="controls">
+          <Select options={people} onChange={e => this.onPersonChange(e)} value={this.state.person} />
+          <NumericInput id="numeric" min={1} max={10} onChange={e => this.onValueChange(e)} value={this.state.depth} />
+        </div>
         <Title />
         <Description />
         <Legend />
         <Authors />
-        <Graph graph={graph} options={options} events={this.events}/>
+        <Graph graph={reducedGraph(this.state.person, this.state.depth)} options={options} events={this.events}/>
         <SlidingPane
           isOpen={this.state.isPaneOpen}
           title={this.state.name}

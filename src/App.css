@@ -43,8 +43,8 @@
 }
 
 #title {
-  /*width: 100%;*/
   text-align: center;
+  height: 10vh;
 }
 
 #title > div {
@@ -62,8 +62,25 @@
   border: solid 1px gray;
 }
 
+#controls {
+  background-color: white;
+  position: absolute;
+  margin-right: 1vw;
+  padding: 1vw;
+  width: 30%;
+  right: 0;
+}
+
 #tooltip {
   visibility: hidden;
+}
+
+.react-numeric-input {
+  width: 100%;
+}
+
+#numeric {
+  width: 100%;
 }
 
 @media (max-width: 600px) {

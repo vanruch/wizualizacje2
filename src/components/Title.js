@@ -1,6 +1,5 @@
 import React, {Component} from 'react';
 import ReactTooltip from 'react-tooltip'
-import Description from './Description';
 import Legend from './Legend';
 
 class Title extends Component {
