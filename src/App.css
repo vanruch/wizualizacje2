@@ -30,3 +30,28 @@
     transform: rotate(360deg);
   }
 }
+
+#legend {
+  position: absolute;
+  bottom: 0;
+}
+
+#authors {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+
+#title {
+  width: 100%;
+  text-align: center;
+}
+
+#description {
+  background-color: white;
+  position: absolute;
+  margin-left: 1vw;
+  padding: 1vw;
+  width: 30%;
+  border: solid 1px gray;
+}

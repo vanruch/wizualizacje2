@@ -6,6 +6,10 @@ import Modal from 'react-modal';
 import Iframe from 'react-iframe';
 import SlidingPane from 'react-sliding-pane';
 import 'react-sliding-pane/dist/react-sliding-pane.css';
+import Description from "./components/Description";
+import Title from "./components/Title";
+import Authors from "./components/Authors";
+import Legend from "./components/Legend";
 
 const pwWorkers = [
   'https://genealogy.math.ndsu.nodak.edu/id.php?id=162783',
@@ -137,6 +141,10 @@ class App extends Component {
   render() {
     return (
       <div ref={ref => this.el = ref} id='tmp'>
+        <Title />
+        <Description />
+        <Legend />
+        <Authors />
         <Graph graph={graph} options={options} events={this.events}/>
         <SlidingPane
           isOpen={this.state.isPaneOpen}
