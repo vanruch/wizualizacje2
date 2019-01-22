@@ -80,6 +80,16 @@
     color: #fff;
   }
 
+  #legend div {
+    padding: unset;
+    text-align: left;
+  }
+
+  #legend svg {
+    position: relative;
+    margin-left: 0;
+  }
+
   #tooltip {
     visibility: unset;
     background-color: slategrey;
@@ -89,5 +99,9 @@
     height: 20px;
     margin-top: 22px;
     margin-left: 10px;
+  }
+
+  #tooltip-body {
+    max-width: 200px;
   }
 }
