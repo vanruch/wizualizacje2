@@ -89,6 +89,12 @@
     color: #ffffff !important;
   }
 
+  #controls {
+    z-index: 100;
+    width: calc(100% - 30px) !important;
+    margin: 10vh 15px 0 15px;
+  }
+
   #legend {
     position: relative;
   }

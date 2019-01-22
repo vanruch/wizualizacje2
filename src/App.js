@@ -82,7 +82,7 @@ const graph = {
 };
 
 const people = graph.nodes.map(x => ({value: x.id, label: x.label}));
-people.unshift({value: "all", label: "Everyone"});
+people.unshift({value: "all", label: "Wszyscy"});
 
 function reducedGraph(root, depth) {
   function extend(current) {
@@ -155,7 +155,7 @@ var options = {
 class App extends Component {
   constructor(props) {
     super(props);
-    this.state = {isPaneOpen: false, isPaneOpened: false, person: {value: "all", label: "Everyone"}, depth: 10};
+    this.state = {isPaneOpen: false, isPaneOpened: false, person: {value: "all", label: "Wszyscy"}, depth: 10};
     this.events = {
       select: this.selectNode.bind(this),
       hoverNode: () => {document.body.style.cursor = 'pointer'},
