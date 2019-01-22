@@ -6,12 +6,12 @@ import Modal from 'react-modal';
 import Iframe from 'react-iframe';
 import SlidingPane from 'react-sliding-pane';
 import 'react-sliding-pane/dist/react-sliding-pane.css';
-import Description from "./components/Description";
-import Title from "./components/Title";
-import Authors from "./components/Authors";
-import Legend from "./components/Legend";
-import Select from "react-select";
-import NumericInput from "react-numeric-input";
+import Description from './components/Description';
+import Title from './components/Title';
+import Authors from './components/Authors';
+import Legend from './components/Legend';
+import Select from 'react-select';
+import NumericInput from 'react-numeric-input';
 
 const pwWorkers = [
   'https://genealogy.math.ndsu.nodak.edu/id.php?id=162783',
@@ -82,7 +82,7 @@ const graph = {
 };
 
 const people = graph.nodes.map(x => ({value: x.id, label: x.label}));
-people.unshift({value: "all", label: "Wszyscy"});
+people.unshift({value: 'all', label: 'Wszyscy'});
 
 function reducedGraph(root, depth) {
   function extend(current) {
@@ -102,14 +102,14 @@ function reducedGraph(root, depth) {
   }
 
   function find(id) {
-    return graph.nodes.find(x => x.id === id)
+    return graph.nodes.find(x => x.id === id);
   }
 
   function distinct(values) {
     return values.filter((v, i) => values.indexOf(v) === i);
   }
 
-  let nodes = (root.value === "all") ? graph.nodes.slice() : [find(root.value)];
+  let nodes = (root.value === 'all') ? graph.nodes.slice() : [find(root.value)];
   for (let i = 0; i < depth; i++) {
     nodes = extend(nodes);
   }
@@ -139,7 +139,7 @@ var options = {
       blockShifting: false
     }
   },
-  interaction:{hover:true},
+  interaction: {hover: true},
   // physics: {
   //   // enabled: false,
   //   solver: 'hierarchicalRepulsion',
@@ -155,11 +155,11 @@ var options = {
 class App extends Component {
   constructor(props) {
     super(props);
-    this.state = {isPaneOpen: false, isPaneOpened: false, person: {value: "all", label: "Wszyscy"}, depth: 10};
+    this.state = {isPaneOpen: false, isPaneOpened: false, person: {value: 'all', label: 'Wszyscy'}, depth: 10};
     this.events = {
       select: this.selectNode.bind(this),
-      hoverNode: () => {document.body.style.cursor = 'pointer'},
-      blurNode: () => {document.body.style.cursor = 'default'},
+      hoverNode: () => {document.body.style.cursor = 'pointer';},
+      blurNode: () => {document.body.style.cursor = 'default';}
     };
   }
 
@@ -187,24 +187,25 @@ class App extends Component {
   }
 
   onPersonChange(person) {
-    this.setState({...this.state, person: person})
+    this.setState({...this.state, person: person});
   }
 
   onValueChange(value) {
-    this.setState({...this.state, depth: value})
+    this.setState({...this.state, depth: value});
   }
 
   render() {
     return (
       <div ref={ref => this.el = ref} id='tmp'>
+        {!this.state.isPaneOpen &&
         <div id="controls">
-          <Select options={people} onChange={e => this.onPersonChange(e)} value={this.state.person} />
-          <NumericInput id="numeric" min={1} max={10} onChange={e => this.onValueChange(e)} value={this.state.depth} />
-        </div>
-        <Title />
-        <Description />
-        <Legend />
-        <Authors />
+          <Select options={people} onChange={e => this.onPersonChange(e)} value={this.state.person}/>
+          <NumericInput id="numeric" min={1} max={10} onChange={e => this.onValueChange(e)} value={this.state.depth}/>
+        </div>}
+        <Title/>
+        <Description/>
+        <Legend/>
+        <Authors/>
         <Graph graph={reducedGraph(this.state.person, this.state.depth)} options={options} events={this.events}/>
         <SlidingPane
           isOpen={this.state.isPaneOpen}
