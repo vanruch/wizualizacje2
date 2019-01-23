@@ -24,7 +24,8 @@ const pwWorkers = [
   'https://genealogy.math.ndsu.nodak.edu/id.php?id=126085',
   'https://genealogy.math.ndsu.nodak.edu/id.php?id=137002',
   'https://genealogy.math.ndsu.nodak.edu/id.php?id=126075',
-  'https://genealogy.math.ndsu.nodak.edu/id.php?id=125944'
+  'https://genealogy.math.ndsu.nodak.edu/id.php?id=125944',
+  'https://www.genealogy.math.ndsu.nodak.edu/id.php?id=189855'
 ];
 const lwiw = [
   'https://genealogy.math.ndsu.nodak.edu/id.php?id=12681',
