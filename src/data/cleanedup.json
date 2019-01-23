@@ -6,6 +6,33 @@
  },
  "nodes": [
   {
+   "v": "https://www.genealogy.math.ndsu.nodak.edu/id.php?id=189855",
+   "value": {
+    "name": "Przemysław Biecek",
+    "uni": "Politechnika Wrocławska",
+    "year": "2007",
+    "image": "http://pbiecek.github.io/images/przemek7.jpg"
+   }
+  },
+  {
+   "v": "https://www.genealogy.math.ndsu.nodak.edu/id.php?id=144275",
+   "value": {
+    "name": "Witold Klonecki",
+    "uni": "Politechnika Wrocławska",
+    "year": "1963",
+    "image": "http://bulletin.imstat.org/wp-content/uploads/Witold-Klonecki.jpg"
+   }
+  },
+  {
+   "v": "https://www.genealogy.math.ndsu.nodak.edu/id.php?id=167383",
+   "value": {
+    "name": "Julian Perkal",
+    "uni": "Politechnika Wrocławska",
+    "year": "1950",
+    "image": "http://www.polbiom.up.poznan.pl/pic/memoriesPerkal.jpg"
+   }
+  },
+  {
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=137002",
    "value": {
     "name": "Janina Kotus ",
@@ -294,7 +321,7 @@
    "value": {
     "name": "Zbigniew Lonc ",
     "uni": "Politechnika Warszawska",
-    "year": "1982",
+    "year": "1982",Editing wizualizacje2_cleanedup.json at master · vanruch_wizualizacje2
     "image": "http://szok.mini.pw.edu.pl/photos/lonc_zbigniew.jpg"
    }
   },
@@ -308,6 +335,18 @@
   }
  ],
  "edges": [
+  {
+   "v": "https://www.genealogy.math.ndsu.nodak.edu/id.php?id=144275",
+   "w": "https://www.genealogy.math.ndsu.nodak.edu/id.php?id=189855"
+  },
+  {
+   "v": "https://www.genealogy.math.ndsu.nodak.edu/id.php?id=167383",
+   "w": "https://www.genealogy.math.ndsu.nodak.edu/id.php?id=144275"
+  },
+  {
+   "v": "https://www.genealogy.math.ndsu.nodak.edu/id.php?id=7383",
+   "w": "https://www.genealogy.math.ndsu.nodak.edu/id.php?id=167383"
+  }
   {
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=69809",
    "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=137002"
