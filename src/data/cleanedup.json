@@ -6,6 +6,85 @@
  },
  "nodes": [
   {
+   "v": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_swieca_marcin/",
+   "value": {
+    "name": "Marcin Świeca",
+    "uni": "Politechnika Warszawska"
+   }
+  },
+  {
+   "v": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_swieca_marcin/",
+   "value": {
+    "name": "Marcin Świeca",
+    "uni": "Politechnika Warszawska"
+   }
+  },
+  {
+   "v": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_matysiak_wojciech/",
+   "value": {
+    "name": "Wojciech Matysiak",
+    "uni": "Politechnika Warszawska"
+   }
+  },
+  {
+   "v": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_krasnosielska-kobos_anna/",
+   "value": {
+    "name": "Anna Krasnosielska",
+    "uni": "Politechnika Warszawska"
+   }
+  },
+   {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=185993",
+   "value": {
+    "name": "Joanna Chachulska",
+    "uni": "Politechnika Warszawska",
+    "year": "2009"
+   }
+  },
+  {
+   "v": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_kolodziejek_bartosz/",
+   "value": {
+    "name": "Bartłomiej Kołodziejek",
+    "uni": "Politechnika Warszawska"
+   }
+  },
+   {
+   "v": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_szpojankowski_kamil/",
+   "value": {
+    "name": "Kamil Szpojankowski",
+    "uni": "Politechnika Warszawska"
+   }
+  },
+  {
+   "v": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_szablowski_pawel/",
+   "value": {
+    "name": "Paweł Szablowski",
+    "uni": "Politechnika Warszawska"
+   }
+  },
+  {
+   "v": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_ferenstein_elzbieta/",
+   "value": {
+    "name": "Elżbieta Ferenstein",
+    "uni": "Politechnika Warszawska"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=125996",
+   "value": {
+    "name": "Konstancja Bobecka",
+    "uni": "Politechnika Warszawska",
+    "year": "2002"
+   }
+  },
+  {
+   "v": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_rutkowski_marek/",
+   "value": {
+    "name": "Marek Rutkowski",
+    "uni": "Politechnika Warszawska"
+   }
+  },
+  {
    "v": "https://www.genealogy.math.ndsu.nodak.edu/id.php?id=189855",
    "value": {
     "name": "Przemysław Biecek",
@@ -228,7 +307,7 @@
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=125947",
    "value": {
     "name": "Agnieszka Płucińska ",
-    "uni": "Uniwersytet Wrocławski",
+    "uni": "Politechnika Warszawska",
     "year": "1961"
    }
   },
