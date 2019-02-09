@@ -5,6 +5,207 @@
   "compound": false
  },
  "nodes": [
+ {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=126083",
+   "value": {
+    "name": "Anna Zamojska-Dzienio",
+    "uni": "Politechnika Warszawska",
+    "year": "2004"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=126080",
+   "value": {
+    "name": "Agata Pilitowska",
+    "uni": "Politechnika Warszawska",
+    "year": "1996"
+   }
+  },
+ {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=143870",
+   "value": {
+    "name": "Kazimierz Napiórkowski",
+    "uni": "Uniwersytet Warszawski",
+    "year": "1970"
+   }
+  },
+ {
+   "v": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_janeczko_stanislaw/",
+   "value": {
+    "name": "Stanisław Janeczko",
+    "uni": "Politechnika Warszawska"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=51907",
+   "value": {
+    "name": "Władysław Roman Orlicz",
+    "uni": "University of Lwów",
+    "year": "1928"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=51936",
+   "value": {
+    "name": "Zbigniew Ciesielski",
+    "uni": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+    "year": "1960"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=18596",
+   "value": {
+    "name": "Stanisław Kwapień",
+    "uni": "Institute of Mathematics, Polish Academy of Sciences",
+    "year": "1968"
+   }
+  },
+ {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=96107",
+   "value": {
+    "name": "Jacek Jakubowski",
+    "uni": "Uniwersytet Warszawski",
+    "year": "1983"
+   }
+  },
+ {
+   "v": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_nieweglowski_mariusz/",
+   "value": {
+    "name": "Mariusz Niewęgłowski",
+    "uni": "Politechnika Warszawska"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=193606",
+   "value": {
+    "name": "Paweł Rzążewski",
+    "uni": "Uniwersytet Warszawski",
+    "year": "2015"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=165969",
+   "value": {
+    "name": "Paweł Naroski",
+    "uni": "Politechnika Warszawska",
+    "year": "2011"
+   }
+  }, 
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=165965",
+   "value": {
+    "name": "Krzysztof Bryś",
+    "uni": "Politechnika Warszawska",
+    "year": "2003"
+   }
+  }, 
+ {
+   "v": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_debski_michal/",
+   "value": {
+    "name": "Michał Dębski",
+    "uni": "Politechnika Warszawska"
+   }
+  }, 
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=134540",
+   "value": {
+    "name": "Andrzej Rotkiewicz",
+    "uni": "Polska Akademia Nauk",
+    "year": "1963"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=143963",
+   "value": {
+    "name": "Jarosław Grytczuk",
+    "uni": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+    "year": "1996"
+   }
+  },
+  {
+   "v": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_traczyk_tomasz/",
+   "value": {
+    "name": "Tomasz Traczyk",
+    "uni": "Politechnika Warszawska"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=71934",
+   "value": {
+    "name": "Slawomir Antoni Nowak",
+    "uni": "Uniwersytet Warszawski",
+    "year": "1973"
+   }
+  },  
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=134775",
+   "value": {
+    "name": "Danuta Kołodziejczyk",
+    "uni": "Uniwersytet Warszawski",
+    "year": "1993"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=130278",
+   "value": {
+    "name": "Ludwik Jaksztas",
+    "uni": "Politechnika Warszawska",
+    "year": "2008"
+   }
+  },
+  {
+   "v": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_lesniewski_krzysztof/",
+   "value": {
+    "name": "Krzysztof Leśniewski",
+    "uni": "Politechnika Warszawska"
+   }
+  },
+ {
+   "v": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_syga_monika/",
+   "value": {
+    "name": "Monika Syga",
+    "uni": "Politechnika Warszawska"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=100956",
+   "value": {
+    "name": "Ewa Bednarczuk",
+    "uni": "Polska Akademia Nauk",
+    "year": "1986"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=86151",
+   "value": {
+    "name": "Stefan Rolewicz",
+    "uni": "Uniwersytet Warszawski",
+    "year": "1958"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=130383",
+   "value": {
+    "name": "Bogusława Karpińska",
+    "uni": "Politechnika Warszawska",
+    "year": "1999"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=1279559",
+   "value": {
+    "name": "Feliks Marian Przytycki",
+    "uni": "Institute of Mathematics, Polish Academy of Sciences",
+    "year": "1977"
+   }
+  },
+   {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=69809",
+   "value": {
+    "name": "Karol Krzyżewski",
+    "uni": "Politechnika Warszawska"
+   }
+  },
   {
    "v": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_swieca_marcin/",
    "value": {
