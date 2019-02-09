@@ -25,7 +25,32 @@ const pwWorkers = [
   'https://genealogy.math.ndsu.nodak.edu/id.php?id=137002',
   'https://genealogy.math.ndsu.nodak.edu/id.php?id=126075',
   'https://genealogy.math.ndsu.nodak.edu/id.php?id=125944',
-  'https://www.genealogy.math.ndsu.nodak.edu/id.php?id=189855'
+  'https://www.genealogy.math.ndsu.nodak.edu/id.php?id=189855',
+  "https://genealogy.math.ndsu.nodak.edu/id.php?id=125947",
+  "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_rutkowski_marek/",
+  "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_ferenstein_elzbieta/",
+  "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_szablowski_pawel/",
+  "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_szpojankowski_kamil/",
+  "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_kolodziejek_bartosz/",
+  "https://genealogy.math.ndsu.nodak.edu/id.php?id=185993",
+  "https://genealogy.math.ndsu.nodak.edu/id.php?id=125996",
+  "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_krasnosielska-kobos_anna/",
+  "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_matysiak_wojciech/",
+  "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_swieca_marcin/",
+  "https://genealogy.math.ndsu.nodak.edu/id.php?id=130383",
+  "https://genealogy.math.ndsu.nodak.edu/id.php?id=100956",
+  "https://genealogy.math.ndsu.nodak.edu/id.php?id=130278",
+  "https://genealogy.math.ndsu.nodak.edu/id.php?id=134775",
+  "https://genealogy.math.ndsu.nodak.edu/id.php?id=75416",
+  "https://genealogy.math.ndsu.nodak.edu/id.php?id=143963",
+  "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_debski_michal/",
+  "https://genealogy.math.ndsu.nodak.edu/id.php?id=165965",
+  "https://genealogy.math.ndsu.nodak.edu/id.php?id=165969",
+  "https://genealogy.math.ndsu.nodak.edu/id.php?id=193606",
+  "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_nieweglowski_mariusz/",
+  "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_janeczko_stanislaw/",
+  "https://genealogy.math.ndsu.nodak.edu/id.php?id=126080",
+  "https://genealogy.math.ndsu.nodak.edu/id.php?id=126083" 
 ];
 const lwiw = [
   'https://genealogy.math.ndsu.nodak.edu/id.php?id=12681',
@@ -38,7 +63,8 @@ const lwiw = [
   'https://genealogy.math.ndsu.nodak.edu/id.php?id=43524',
   'https://genealogy.math.ndsu.nodak.edu/id.php?id=89841',
   'https://genealogy.math.ndsu.nodak.edu/id.php?id=60311',
-  'https://genealogy.math.ndsu.nodak.edu/id.php?id=12682'
+  'https://genealogy.math.ndsu.nodak.edu/id.php?id=12682',
+  "https://genealogy.math.ndsu.nodak.edu/id.php?id=7383"
 ];
 const waw = [
   'https://genealogy.math.ndsu.nodak.edu/id.php?id=24546',
