@@ -624,6 +624,114 @@
  ],
  "edges": [
   {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=125947",
+   "w": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_rutkowski_marek/"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=125947",
+   "w": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_rutkowski_marek/"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=125947",
+   "w": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_szablowski_pawel/"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=125947",
+   "w": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_ferenstein_elzbieta/"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=125944",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=125996"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=125944",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=185993"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=125944",
+   "w": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_kolodziejek_bartosz/"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=125944",
+   "w": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_szpojankowski_kamil/"
+  },
+  {
+   "v": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_ferenstein_elzbieta/",
+   "w": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_krasnosielska-kobos_anna/"
+  },
+  {
+   "v": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_szablowski_pawel/",
+   "w": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_matysiak_wojciech/"
+  },
+  {
+   "v": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_matysiak_wojciech/",
+   "w": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_swieca_marcin/"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=22600",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=1279559"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=1279559",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=130383"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=86151",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=100956"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13056",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=86151"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=100956",
+   "w": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_lesniewski_krzysztof/"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=100956",
+   "w": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_syga_monika/"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=1279559",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=130278"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=71934",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=134775"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=12548",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=71934"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=489",
+   "w": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_traczyk_tomasz/"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=12545",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=134540"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=134540",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=143963"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=143963",
+   "w": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_debski_michal/"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=162216",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=193606"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=162216",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=165969"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=162216",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=165965"
+  },
+  {
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=96107",
    "w": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_nieweglowski_mariusz/"
   },
