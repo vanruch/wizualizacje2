@@ -50,7 +50,9 @@ const pwWorkers = [
   "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_nieweglowski_mariusz/",
   "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_janeczko_stanislaw/",
   "https://genealogy.math.ndsu.nodak.edu/id.php?id=126080",
-  "https://genealogy.math.ndsu.nodak.edu/id.php?id=126083" 
+  "https://genealogy.math.ndsu.nodak.edu/id.php?id=126083",
+  "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_syga_monika/",
+  "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_lesniewski_krzysztof/"
 ];
 const lwiw = [
   'https://genealogy.math.ndsu.nodak.edu/id.php?id=12681',
