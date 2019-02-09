@@ -21,6 +21,14 @@
     "year": "1996"
    }
   },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=30182",
+   "value": {
+    "name": "Krzysztof Maurin",
+    "uni": "Uniwersytet Warszawski",
+    "year": "1950"
+   }
+  },
  {
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=143870",
    "value": {
@@ -615,6 +623,18 @@
   }
  ],
  "edges": [
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=143870",
+   "w": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_janeczko_stanislaw/"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=126075",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=126083"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=126075",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=126080"
+  },
   {
    "v": "https://www.genealogy.math.ndsu.nodak.edu/id.php?id=144275",
    "w": "https://www.genealogy.math.ndsu.nodak.edu/id.php?id=189855"
