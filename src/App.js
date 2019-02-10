@@ -51,7 +51,19 @@ const pwWorkers = [
   "https://genealogy.math.ndsu.nodak.edu/id.php?id=126080",
   "https://genealogy.math.ndsu.nodak.edu/id.php?id=126083",
   "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_syga_monika/",
-  "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_lesniewski_krzysztof/"
+  "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_lesniewski_krzysztof/",
+  "https://genealogy.math.ndsu.nodak.edu/id.php?id=112084", 
+  "https://genealogy.math.ndsu.nodak.edu/id.php?id=148608",
+  "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_fryszkowski_andrzej/",
+  "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_rzezuchowski_tadeusz/",
+  "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_owczarek_sebastian/",
+  "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_bartczak_leszek/",
+  "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_gaczkowski_michal/",
+  "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_kisiel_konrad/",
+  "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_zadrzynska-pietka_ewa/",
+  "https://genealogy.math.ndsu.nodak.edu/id.php?id=215280", 
+  "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_chelminski_krzysztof/"
+  
 ];
 const lwiw = [
   'https://genealogy.math.ndsu.nodak.edu/id.php?id=12681',
