@@ -32,7 +32,7 @@
 }
 
 #legend {
-  position: absolute;
+  position: fixed;
   bottom: 0;
 }
 
@@ -59,7 +59,12 @@
   margin-left: 1vw;
   padding: 1vw;
   width: 30%;
-  border: solid 1px gray;
+  box-shadow: 0 0 10px grey;
+  border-radius: 5px;
+}
+
+.rv-discrete-color-legend-item {
+  padding-left: 0 !important;
 }
 
 #controls {
@@ -81,6 +86,10 @@
 
 #numeric {
   width: 100%;
+}
+
+#root > div {
+  max-height: calc(100% - 10vh);
 }
 
 @media (max-width: 600px) {
@@ -127,4 +136,19 @@
   #tooltip-body {
     max-width: 200px;
   }
+}
+
+#info_toggle {
+  position: absolute;
+  margin-left: 1vw;
+  top: 1vw;
+  z-index: 15;
+  background:none!important;
+  color:inherit;
+  border:none;
+  padding:0!important;
+  font: inherit;
+  cursor: pointer;
+  border: none !important;
+  text-decoration: underline;
 }

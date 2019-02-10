@@ -6,12 +6,11 @@ import Modal from 'react-modal';
 import Iframe from 'react-iframe';
 import SlidingPane from 'react-sliding-pane';
 import 'react-sliding-pane/dist/react-sliding-pane.css';
-import Description from './components/Description';
 import Title from './components/Title';
 import Authors from './components/Authors';
-import Legend from './components/Legend';
 import Select from 'react-select';
 import NumericInput from 'react-numeric-input';
+import {Info} from './components/Info';
 
 const pwWorkers = [
   'https://genealogy.math.ndsu.nodak.edu/id.php?id=162783',
@@ -96,16 +95,17 @@ const graph = {
   nodes: data.nodes.map(node => ({
     id: node.v,
     label: node.value.name.replace(' ', '\n'),
-    borderWidth: selectBordedColor(node.v) ? 3 : 0,
+    borderWidth: selectBordedColor(node.v) ? 2 : 0,
     color: {
+      background: 'white',
       border: selectBordedColor(node.v)
     },
     shapeProperties: {
       interpolation: false    // 'true' for intensive zooming
     },
     shape: 'circularImage',
-    image: node.value.image || 'https://marybrand.ru/pictures/good_id2153.jpg',
-    brokenImage: 'https://marybrand.ru/pictures/good_id2153.jpg'
+    image: node.value.image || 'https://upload.wikimedia.org/wikipedia/commons/8/87/Silver_-_replace_this_image_male.svg',
+    brokenImage: 'https://upload.wikimedia.org/wikipedia/commons/8/87/Silver_-_replace_this_image_male.svg'
   })),
   edges: data.edges.map(edge => ({from: edge.v, to: edge.w}))
 };
@@ -164,7 +164,7 @@ var options = {
     hierarchical: {
       enabled: true,
       sortMethod: 'directed',
-      nodeSpacing: 150,
+      nodeSpacing: 50,
       blockShifting: false
     }
   },
@@ -232,10 +232,9 @@ class App extends Component {
           <NumericInput id="numeric" min={1} max={10} onChange={e => this.onValueChange(e)} value={this.state.depth}/>
         </div>}
         <Title/>
-        <Description/>
-        <Legend/>
+        <Info/>
         <Authors/>
-        <Graph graph={reducedGraph(this.state.person, this.state.depth)} options={options} events={this.events}/>
+        <Graph className='AAA' graph={reducedGraph(this.state.person, this.state.depth)} options={options} events={this.events}/>
         <SlidingPane
           isOpen={this.state.isPaneOpen}
           title={this.state.name}

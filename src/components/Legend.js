@@ -13,7 +13,7 @@ const ITEMS = [
 class Legend extends Component {
   render() {
     return (
-      <div id="legend">
+      <div>
         <DiscreteColorLegend width={300} items={ITEMS} />
       </div>
     );
