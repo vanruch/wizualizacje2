@@ -52,7 +52,7 @@ const pwWorkers = [
   "https://genealogy.math.ndsu.nodak.edu/id.php?id=126083",
   "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_syga_monika/",
   "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_lesniewski_krzysztof/",
-  "https://genealogy.math.ndsu.nodak.edu/id.php?id=112084", 
+  "https://genealogy.math.ndsu.nodak.edu/id.php?id=112084",
   "https://genealogy.math.ndsu.nodak.edu/id.php?id=148608",
   "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_fryszkowski_andrzej/",
   "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_rzezuchowski_tadeusz/",
@@ -61,10 +61,10 @@ const pwWorkers = [
   "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_gaczkowski_michal/",
   "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_kisiel_konrad/",
   "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_zadrzynska-pietka_ewa/",
-  "https://genealogy.math.ndsu.nodak.edu/id.php?id=215280", 
+  "https://genealogy.math.ndsu.nodak.edu/id.php?id=215280",
   "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_chelminski_krzysztof/",
   "https://genealogy.math.ndsu.nodak.edu/id.php?id=59715"
-  
+
 ];
 const lwiw = [
   'https://genealogy.math.ndsu.nodak.edu/id.php?id=12681',
@@ -114,7 +114,7 @@ const graph = {
       border: selectBordedColor(node.v)
     },
     shapeProperties: {
-      interpolation: false    // 'true' for intensive zooming
+      interpolation: false
     },
     shape: 'circularImage',
     image: node.value.image || 'https://upload.wikimedia.org/wikipedia/commons/8/87/Silver_-_replace_this_image_male.svg',
@@ -125,6 +125,25 @@ const graph = {
 
 const people = graph.nodes.map(x => ({value: x.id, label: x.label}));
 people.unshift({value: 'all', label: 'Wszyscy'});
+
+const computeLevel = (nodes, edges) => {
+  const levels = {};
+  const roots = Object.entries(edges
+    .reduce((acc, {to, from}) => ({...acc, [to]: acc[to] ? acc[to]+1 : 1, [from]: acc[from] ? acc[from] : 0}), {}))
+    .filter(([, value]) => value === 0)
+    .map(([key]) => key);
+
+  const explore = (node, level) => {
+    if (levels[node] > level) {
+      return;
+    }
+    levels[node] = level;
+    edges.filter(({from}) => from === node).forEach(({to}) => explore(to, level + 1));
+  };
+
+  roots.forEach(node => explore(node, 0));
+  return nodes.map(node => ({...node, level: levels[node.id]}));
+};
 
 function reducedGraph(root, depth) {
   function extend(current) {
@@ -164,7 +183,7 @@ function reducedGraph(root, depth) {
   }
 
   return {
-    nodes: nodes,
+    nodes: computeLevel(nodes, edges),
     edges: edges
   };
 }
@@ -178,6 +197,7 @@ var options = {
       enabled: true,
       sortMethod: 'directed',
       nodeSpacing: 50,
+      treeSpacing: 80,
       blockShifting: false
     }
   },
