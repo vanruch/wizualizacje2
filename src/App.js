@@ -63,7 +63,8 @@ const pwWorkers = [
   "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_zadrzynska-pietka_ewa/",
   "https://genealogy.math.ndsu.nodak.edu/id.php?id=215280",
   "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_chelminski_krzysztof/",
-  "https://genealogy.math.ndsu.nodak.edu/id.php?id=59715"
+  "https://genealogy.math.ndsu.nodak.edu/id.php?id=59715",
+  "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_traczyk_tomasz/"
 
 ];
 const lwiw = [
