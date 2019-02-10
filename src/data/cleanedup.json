@@ -5,6 +5,30 @@
   "compound": false
  },
  "nodes": [
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=30931",
+   "value": {
+    "name": "Bogdan Bojarski",
+    "uni": "Ivane Javakhishvili Tbilisi State University",
+    "year": "1955"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=93593",
+   "value": {
+    "name": "Michał Misiurewicz",
+    "uni": "Uniwersytet Warszawski",
+    "year": "1974"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=59715",
+   "value": {
+    "name": "Grzegorz Świątek",
+    "uni": "Uniwersytet Warszawski",
+    "year": "1987"
+   }
+  },
  {
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=126083",
    "value": {
@@ -601,6 +625,14 @@
   }
  ],
  "edges": [
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=30931",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=93593"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=93593",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=59715"
+  },
   {
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=125947",
    "w": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_rutkowski_marek/"
