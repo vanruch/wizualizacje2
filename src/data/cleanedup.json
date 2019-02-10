@@ -6,6 +6,238 @@
  },
  "nodes": [
   {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=7486",
+   "value": {
+    "name": "Karl Theodor Wilhelm Weierstraß",
+    "uni": "Westfälische Wilhelms-Universität Münster",
+    "year": "1841",
+    "image": "https://pl.wikipedia.org/wiki/Karl_Weierstrass#/media/File:Karl_Weierstrass.jpg"
+   }
+  },
+   {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=24101",
+   "value": {
+    "name": "Nicolai Vasilievich Bugaev",
+    "uni": "Lomonosov Moscow State University",
+    "year": "1866"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=24109",
+   "value": {
+    "name": "Dimitri Fedorowitsch Egorov",
+    "uni": "Lomonosov Moscow State University",
+    "year": "1901"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=24408",
+   "value": {
+    "name": "Pavel Sergeevich Aleksandrov",
+    "uni": "Lomonosov Moscow State University",
+    "year": "1927"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=53008",
+   "value": {
+    "name": "Aleksandr Gennadievich Kurosh",
+    "uni": "Lomonosov Moscow State University",
+    "year": "1936"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=212586",
+   "value": {
+    "name": "Adam Sulinski",
+    "uni": "Lomonosov Moscow State University",
+    "year": "1957"
+   }
+  },
+ {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=214242",
+   "value": {
+    "name": "Edmund Puczylowski",
+    "uni": "Uniwersytet Warszawski",
+    "year": "1975"
+   }
+  },
+ {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=215277",
+   "value": {
+    "name": "Agata Smoktunowicz",
+    "uni": "Institute of Mathematics, Polish Academy of Sciences",
+    "year": "2000"
+   }
+  },
+ {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=215280",
+   "value": {
+    "name": "Michał Ziembowski",
+    "uni": "University of Edinburgh",
+    "year": "2010"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=54543",
+   "value": {
+    "name": "Olga Aleksandrovna Ladyzhenskaya",
+    "uni": "St. Petersburg State University"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=205800",
+   "value": {
+    "name": "Marek Burnat",
+    "uni": "St. Petersburg State University",
+    "year": "1956"
+   }
+  },
+  {
+   "v": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_zadrzynska-pietka_ewa/",
+   "value": {
+    "name": "Ewa Zadrzyńska-Piętka",
+    "uni": "Politechnika Warszawska"
+   }
+  },
+  {
+   "v": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_kisiel_konrad/",
+   "value": {
+    "name": "Konrad Kisiel",
+    "uni": "Politechnika Warszawska"
+   }
+  },
+ {
+   "v": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_gaczkowski_michal/",
+   "value": {
+    "name": "Michał Gaczkowski",
+    "uni": "Politechnika Warszawska"
+   }
+  },
+  {
+   "v": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_bartczak_leszek/",
+   "value": {
+    "name": "Leszek Bartczak",
+    "uni": "Politechnika Warszawska"
+   }
+  },
+ {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=141221",
+   "value": {
+    "name": "Adam Piskorek",
+    "uni": "Institute of Mathematics, Polish Academy of Sciences",
+    "year": "1958"
+   }
+  },
+  {
+   "v": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_chelminski_krzysztof/",
+   "value": {
+    "name": "Krzysztof Chełmiński",
+    "uni": "Politechnika Warszawska"
+   }
+  },
+  {
+   "v": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_owczarek_sebastian/",
+   "value": {
+    "name": "Sebastian Owczarek",
+    "uni": "Politechnika Warszawska"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=48324",
+   "value": {
+    "name": "Czesław Olech",
+    "uni": "Polska Akademia Nauk",
+    "year": "1958"
+   }
+  },
+  {
+   "v": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_rzezuchowski_tadeusz/",
+   "value": {
+    "name": "Tadeusz Rzeżuchowski",
+    "uni": "Politechnika Warszawska"
+   }
+  },
+  {
+   "v": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_fryszkowski_andrzej/",
+   "value": {
+    "name": "Andrzej Fyszkowski",
+    "uni": "Politechnika Warszawska"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=148608",
+   "value": {
+    "name": "Adam Kubica",
+    "uni": "Politechnika Warszawska",
+    "year": "2009"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=5879",
+   "value": {
+    "name": "George David Birkhoff",
+    "uni": "The University of Chicago",
+    "year": "1907"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=4931",
+   "value": {
+    "name": "Clarence Raymond Adams",
+    "uni": "Harvard University",
+    "year": "1922"
+   }
+  },
+   {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=4312",
+   "value": {
+    "name": "Anthony Perry Morse",
+    "uni": "Brown University",
+    "year": "1937"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=10278",
+   "value": {
+    "name": "Herbert Federer",
+    "uni": "University of California, Berkeley",
+    "year": "1944"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=4367",
+   "value": {
+    "name": "Frederick Justin Almgren, Jr.",
+    "uni": "Brown University",
+    "year": "1962"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=17379",
+   "value": {
+    "name": "Robert Vita Kohn",
+    "uni": "Princeton University",
+    "year": "1979"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=33753",
+   "value": {
+    "name": "Piotr Rybka",
+    "uni": "New York University ",
+    "year": "1990"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=112084",
+   "value": {
+    "name": "Przemysław Górka",
+    "uni": "Politechnika Warszawska",
+    "year": "2007"
+   }
+  },
+  {
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=30931",
    "value": {
     "name": "Bogdan Bojarski",
