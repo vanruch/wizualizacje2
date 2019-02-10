@@ -858,6 +858,106 @@
  ],
  "edges": [
   {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=7486",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=24101"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=24101",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=24109"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=24109",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=24408"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=24408",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=53008"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=53008",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=212586"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=212586",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=214242"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=214242",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=215277"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=215277",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=215280"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=54543",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=205800"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=205800",
+   "w": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_zadrzynska-pietka_ewa/"
+  },
+  {
+   "v": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_chelminski_krzysztof/",
+   "w": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_kisiel_konrad/"
+  },
+  {
+   "v": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_chelminski_krzysztof/",
+   "w": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_gaczkowski_michal/"
+  },
+  {
+   "v": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_chelminski_krzysztof/",
+   "w": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_bartczak_leszek/"
+  },
+  {
+   "v": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_chelminski_krzysztof/",
+   "w": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_owczarek_sebastian/"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=141221",
+   "w": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_chelminski_krzysztof/"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=48324",
+   "w": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_rzezuchowski_tadeusz/"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=48324",
+   "w": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_fryszkowski_andrzej/"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=33753",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=148608"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=5879",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=4931"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=4931",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=4312"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=4312",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=10278"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=10278",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=4367"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=4367",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=17379"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=17379",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=33753"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=33753",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=112084"
+  },
+  {
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=30931",
    "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=93593"
   },
