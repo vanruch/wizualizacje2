@@ -5,6 +5,39 @@
   "compound": false
  },
  "nodes": [
+    {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=12542",
+   "value": {
+    "name": "Pafnuty Lvovich Chebyshev",
+    "uni": "St. Petersburg State University",
+    "year": "1849",
+    "wikiUrl": "https://pl.wikipedia.org/wiki/Pafnutij_Czebyszow",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Chebyshev.jpg"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=55611",
+   "value": {
+    "name": "Alexander Nikolaevich Korkin",
+    "uni": "St. Petersburg State University",
+    "year": "1860"
+   }
+  },
+   {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=1075586",
+   "value": {
+    "name": "Aleksei Nikolaevich Krylov",
+    "uni": "St. Petersburg Naval Academy"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=107666",
+   "value": {
+    "name": "Iliya Nestorovich Vekua",
+    "uni": "Ivane Javakhishvili Tbilisi State University",
+    "year": "1940"
+   }
+  },
   {
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=7865",
    "value": {
@@ -960,6 +993,22 @@
   }
  ],
  "edges": [
+        {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=12542",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=55611"
+  },
+      {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=55611",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=107558"
+  },
+    {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=107558",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=107666"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=107666",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=30931"
+  },
      {
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=26995",
    "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=7865"
