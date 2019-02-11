@@ -538,6 +538,15 @@
    }
   },
   {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=18231",
+   "value": {
+    "name": "Carl Friedrich Gauß",
+    "uni": "Universität Helmstedt",
+    "year": "1799",
+    "wikiUrl": "https://genealogy.math.ndsu.nodak.edu/id.php?id=18231"
+   }
+  },
+  {
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=71934",
    "value": {
     "name": "Slawomir Antoni Nowak",
@@ -774,6 +783,51 @@
    }
   },
   {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=7298",
+   "value": {
+    "name": "David Hilbert",
+    "uni": "Universität Königsberg",
+    "year": "1885",
+    "wikiUrl": "https://genealogy.math.ndsu.nodak.edu/id.php?id=7298"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=7404",
+   "value": {
+    "name": "Ferdinand Carl Louis Lindemann",
+    "uni": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+    "year": "1873",
+    "wikiUrl": "https://genealogy.math.ndsu.nodak.edu/id.php?id=7404"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=7401",
+   "value": {
+    "name": "Felix Christian Klein",
+    "uni": "Rheinische Friedrich-Wilhelms-Universität Bonn",
+    "year": "1868",
+    "wikiUrl": "https://genealogy.math.ndsu.nodak.edu/id.php?id=7401"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=7402",
+   "value": {
+    "name": "Julius Plücker",
+    "uni": "Philipps-Universität Marburg",
+    "year": "1823",
+    "wikiUrl": "https://genealogy.math.ndsu.nodak.edu/id.php?id=7402"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=29642",
+   "value": {
+    "name": "Christian Ludwig Gerling",
+    "uni": "Georg-August-Universität Göttingen",
+    "year": "1812",
+    "wikiUrl": "https://genealogy.math.ndsu.nodak.edu/id.php?id=29642"
+   }
+  },
+    {
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=123308",
    "value": {
     "name": "Stanisław Ruziewicz ",
@@ -851,26 +905,6 @@
     "year": "1889",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Stanislaw_Zareba_Polish_mathematician.jpg/339px-Stanislaw_Zareba_Polish_mathematician.jpg",
     "wikiUrl": "https://pl.wikipedia.org/wiki/Stanis%C5%82aw_Zaremba_(1863%E2%80%931942)"
-   }
-  },
-  {
-   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13347",
-   "value": {
-    "name": "Alfred Tarski ",
-    "uni": "Uniwersytet Warszawski",
-    "year": "1924",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/AlfredTarski1968.jpeg",
-    "wikiUrl": "https://pl.wikipedia.org/wiki/Alfred_Tarski"
-   }
-  },
-  {
-   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13345",
-   "value": {
-    "name": "Stanisław Leśniewski ",
-    "uni": "University of Lwów",
-    "year": "1912",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Stanis%C5%82aw_Le%C5%9Bniewski.jpg",
-    "wikiUrl": "https://pl.wikipedia.org/wiki/Stanis%C5%82aw_Le%C5%9Bniewski"
    }
   },
   {
@@ -968,16 +1002,6 @@
     "year": "1920",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/%D8%B9%D8%A7%D9%84%D9%85_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%86%D8%AF%D9%89_%D8%B3%D8%AA%D9%8A%D9%81%D8%A7%D9%86_%D8%A8%D9%86%D8%A7%D8%AE.jpg/178px-%D8%B9%D8%A7%D9%84%D9%85_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%86%D8%AF%D9%89_%D8%B3%D8%AA%D9%8A%D9%81%D8%A7%D9%86_%D8%A8%D9%86%D8%A7%D8%AE.jpg",
     "wikiUrl": "https://pl.wikipedia.org/wiki/Stefan_Banach"
-   }
-  },
-  {
-   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13344",
-   "value": {
-    "name": "Kazimierz Twardowski",
-    "uni": "Universität Wien",
-    "year": "1891",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kazimierz_Twardowski_1933.jpg/800px-Kazimierz_Twardowski_1933.jpg",
-    "wikiUrl": "https://pl.wikipedia.org/wiki/Kazimierz_Twardowski"
    }
   },
   {
@@ -1334,6 +1358,10 @@
    "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=51907"
   },
   {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=12546",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=12545"
+  },
+  {
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13056",
    "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=30182"
   },
@@ -1422,14 +1450,6 @@
    "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=60311"
   },
   {
-   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13347",
-   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=489"
-  },
-  {
-   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13345",
-   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13347"
-  },
-  {
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=22600",
    "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=75416"
   },
@@ -1474,16 +1494,36 @@
    "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=12681"
   },
   {
-   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13344",
-   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=12681"
-  },
-  {
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=7383",
    "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=51907"
   },
   {
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=75416",
    "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=162216"
+  },
+ {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=7298",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=7383"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=7404",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=7298"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=7401",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=7404"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=7402",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=7401"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=29642",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=7402"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=18231",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=29642"
   },
   {
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=162216",
