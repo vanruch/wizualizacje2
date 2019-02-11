@@ -5,6 +5,22 @@
   "compound": false
  },
  "nodes": [
+      {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=55610",
+   "value": {
+    "name": "Nikolai Maksimovich Gunter",
+    "uni": "St. Petersburg State University",
+    "year": "1915"
+   }
+  },
+    {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=54547",
+   "value": {
+    "name": "Sergei L'vovich Sobolev",
+    "uni": "St. Petersburg State University",
+    "year": "1929"
+   }
+  },
     {
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=12542",
    "value": {
