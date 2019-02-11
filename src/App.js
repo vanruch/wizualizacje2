@@ -47,7 +47,7 @@ const pwWorkers = [
   "https://genealogy.math.ndsu.nodak.edu/id.php?id=165969",
   "https://genealogy.math.ndsu.nodak.edu/id.php?id=193606",
   "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_nieweglowski_mariusz/",
-  "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_janeczko_stanislaw/",
+  "https://genealogy.math.ndsu.nodak.edu/id.php?id=194543",
   "https://genealogy.math.ndsu.nodak.edu/id.php?id=126080",
   "https://genealogy.math.ndsu.nodak.edu/id.php?id=126083",
   "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_syga_monika/",
