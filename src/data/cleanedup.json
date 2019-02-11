@@ -1009,7 +1009,19 @@
   }
  ],
  "edges": [
-        {
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=55611",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=55610"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=55610",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=54547"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=54547",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=54543"
+  },
+  {
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=12542",
    "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=55611"
   },
