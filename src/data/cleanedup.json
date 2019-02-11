@@ -6,6 +6,22 @@
  },
  "nodes": [
   {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=194542",
+   "value": {
+    "name": "Wojciech Domitrz",
+    "uni": "Politechnika Warszawska",
+    "year": "1995"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=155901",
+   "value": {
+    "name": "Agnieszka Zimnicka",
+    "uni": "Politechnika Warszawska",
+    "year": "2010"
+   }
+  },
+  {
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=7486",
    "value": {
     "name": "Karl Theodor Wilhelm Weierstraß",
@@ -859,6 +875,14 @@
  ],
  "edges": [
   {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=194543",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=194542"
+  },
+ {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=137002",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=155901"
+  },
+  {
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=7486",
    "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=24101"
   },
@@ -1011,7 +1035,7 @@
    "w": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_swieca_marcin/"
   },
   {
-   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=22600",
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=69809",
    "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=1279559"
   },
   {
