@@ -6,6 +6,30 @@
  },
  "nodes": [
   {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=39071",
+   "value": {
+    "name": "Émile Borel",
+    "uni": "École Normale Supérieure Paris",
+    "year": "1893"
+   }
+  },
+    {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=60313",
+   "value": {
+    "name": "Tadeusz Ważewski",
+    "uni": "Université de Paris",
+    "year": "1924"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=60313",
+   "value": {
+    "name": "Tadeusz Ważewski",
+    "uni": "Université de Paris",
+    "year": "1924"
+   }
+  },
+  {
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=38586",
    "value": {
     "name": "Leonhard Euler",
@@ -928,6 +952,18 @@
   }
  ],
  "edges": [
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=34254",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=39071"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=39071",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=60313"
+  },
+   {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=60313",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=48324"
+  },
  {
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=38586",
    "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=17864"
