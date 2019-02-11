@@ -6,6 +6,22 @@
  },
  "nodes": [
   {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=7865",
+   "value": {
+    "name": "H. A. (Hubert Anson) Newton",
+    "uni": "Yale University",
+    "year": "1850"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=806",
+   "value": {
+    "name": "E. H. (Eliakim Hastings) Moore",
+    "uni": "Yale University",
+    "year": "1885"
+   }
+  },
+  {
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=39071",
    "value": {
     "name": "Émile Borel",
@@ -944,6 +960,18 @@
   }
  ],
  "edges": [
+     {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=26995",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=7865"
+  },
+   {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=7865",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=806"
+  },
+    {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=806",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=5879"
+  },
   {
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=34254",
    "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=39071"
