@@ -6,6 +6,68 @@
  },
  "nodes": [
   {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=38586",
+   "value": {
+    "name": "Leonhard Euler",
+    "uni": "Universität Basel",
+    "year": "1726",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Leonhard_Euler_2.jpg",
+    "wikiUrl": "https://pl.wikipedia.org/wiki/Leonhard_Euler"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=17864",
+   "value": {
+    "name": "Joseph Louis Lagrange",
+    "uni": "Università di Torino",
+    "year": "1754",
+    "wikiUrl": "https://pl.wikipedia.org/wiki/Joseph_Louis_Lagrange",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Joseph-Louis_Lagrange.jpeg"
+   }
+  },
+ {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=17865",
+   "value": {
+    "name": "Siméon Denis Poisson",
+    "uni": "École Polytechnique",
+    "year": "1800",
+    "wikiUrl": "https://pl.wikipedia.org/wiki/Sim%C3%A9on_Denis_Poisson",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Sim%C3%A9onDenisPoisson.jpg"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=26995",
+   "value": {
+    "name": "Michel Chasles",
+    "uni": "École Polytechnique",
+    "year": "1814"
+   }
+  },
+   {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=34254",
+   "value": {
+    "name": "Gaston Darboux",
+    "uni": "École Normale Supérieure Paris",
+    "year": "1866"
+   }
+  },
+    {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=12546",
+   "value": {
+    "name": "Stanisław Zaremba",
+    "uni": "Université Paris IV-Sorbonne",
+    "year": "1889"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=60309",
+   "value": {
+    "name": "Witold Pogorzelski",
+    "uni": "Uniwersytet Jagielloński",
+    "year": "1919"
+   }
+  },
+  {
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=194542",
    "value": {
     "name": "Wojciech Domitrz",
@@ -874,6 +936,34 @@
   }
  ],
  "edges": [
+ {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=38586",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=17864"
+  },
+ {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=17864",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=17865"
+  },
+ {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=17865",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=26995"
+  },
+ {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=26995",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=34254"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=34254",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=12546"
+  },
+ {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=12546",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=60309"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=60309",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=141221"
+  },
   {
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=194543",
    "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=194542"
