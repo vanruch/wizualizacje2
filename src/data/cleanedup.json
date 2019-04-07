@@ -1700,15 +1700,12 @@
    "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13346" 
 },
 {
-   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13344",
-   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13344" 
-},
-{
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=15176",
    "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13344"
 },
 {
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=60803",
    "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=15176"
-} ]
+} 
+ ]
 }
