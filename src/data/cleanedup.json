@@ -1116,38 +1116,6 @@
     "uni": "University of Lwów",
     "year": "1906"
    }
-  },
-  {
-   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13344", 
-   "value": {
-    "name": "Kazimierz Twardowski",
-    "uni": "Universität Wien",
-    "year": "1891"
-   }
-  },
-  {
-   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13344",
-   "value": {
-    "name": "Kazimierz Twardowski",
-    "uni": "Universität Wien",
-    "year": "1891"
-   }
-  },
-  {
-   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=15176",
-   "value": {
-    "name": "Franz Clemens Brentano",
-    "uni": "Eberhard-Karls-Universität Tübingen",
-    "year": "1862"
-   }
-  },
-  {
-   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=60803",
-   "value": {
-    "name": "Friedrich Adolf Trendelenburg",
-    "uni": "Universität Berlin",
-    "year": "1826"
-   }
   }
  ],
  "edges": [
@@ -1694,18 +1662,6 @@
 {
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13346", 
    "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=159445"
-},
-{
-   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13344",
-   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13346" 
-},
-{
-   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=15176",
-   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13344"
-},
-{
-   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=60803",
-   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=15176"
 } 
  ]
 }
