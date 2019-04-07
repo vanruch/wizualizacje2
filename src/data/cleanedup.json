@@ -1148,22 +1148,6 @@
     "uni": "Universität Berlin",
     "year": "1826"
    }
-  },
-  {
-   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=35141",
-   "value": {
-    "name": "Karl Reinhold",
-    "uni": "Friedrich-Schiller-Universität Jena",
-    "year": "1787"
-   }
-  },
-  {
-   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=106921",
-   "value": {
-    "name": "Immanuel Kant",
-    "uni": "Universität Königsberg",
-    "year": "1770"
-   }
   }
  ],
  "edges": [
@@ -1726,14 +1710,5 @@
 {
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=60803",
    "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=15176"
-},
-{
-   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=35141",
-   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=60803"
-},
-{
-   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=106921",
-   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=35141"
-}
- ]
+} ]
 }
