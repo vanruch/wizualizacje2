@@ -1076,6 +1076,94 @@
     "uni": "Politechnika Warszawska",
     "year": "2012"
    }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=193607", 
+   "value": {
+    "name": "Konstanty Junosza-Szaniawski",
+    "uni": "Politechnika Warszawska",
+    "year": "2004"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=195202", 
+   "value": {
+    "name": "Adam Idzik",
+    "uni": "Politechnika Warszawska",
+    "year": "1980"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=146375", 
+   "value": {
+    "name": "Jerzy Łoś",
+    "uni": "Uniwersytet Wrocławski",
+    "year": " 1949"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=159445", 
+   "value": {
+    "name": "Jerzy Słupecki",
+    "uni": " ",
+    "year": " 1938"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13346", 
+   "value": {
+    "name": "Jan Łukasiewicz",
+    "uni": "University of Lwów",
+    "year": "1906"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13344",  (promotor Banacha)
+   "value": {
+    "name": "Kazimierz Twardowski",
+    "uni": "Universität Wien",
+    "year": "1891"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13344",
+   "value": {
+    "name": "Kazimierz Twardowski",
+    "uni": "Universität Wien",
+    "year": "1891"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=15176",
+   "value": {
+    "name": "Franz Clemens Brentano",
+    "uni": "Eberhard-Karls-Universität Tübingen",
+    "year": "1862"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=60803",
+   "value": {
+    "name": "Friedrich Adolf Trendelenburg",
+    "uni": "Universität Berlin",
+    "year": "1826"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=35141",
+   "value": {
+    "name": "Karl Reinhold",
+    "uni": "Friedrich-Schiller-Universität Jena",
+    "year": "1787"
+   }
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=106921",
+   "value": {
+    "name": "Immanuel Kant",
+    "uni": "Universität Königsberg",
+    "year": "1770"
+   }
   }
  ],
  "edges": [
@@ -1606,6 +1694,46 @@
   {
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=162216",
    "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=165970"
-  }
+  },
+{
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=195202", 
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=193607" 
+},
+{
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=146375", 
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=195202"
+},
+{
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=159445", 
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=146375"
+},
+{
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13346", 
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=159445"
+},
+{
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13344",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13346" 
+},
+{
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13344",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13344" 
+},
+{
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=15176",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13344"
+},
+{
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=60803",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=15176"
+},
+{
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=35141",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=60803"
+},
+{
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=106921",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=35141"
+}
  ]
 }
