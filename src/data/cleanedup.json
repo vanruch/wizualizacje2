@@ -1159,6 +1159,50 @@
   }
  ],
  "edges": [
+    {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=193607",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=193606"
+  },
+  {
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=162216",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=193606"
+  },
+{
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=195202", 
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=193607" 
+},
+{
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=146375", 
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=195202"
+},
+{
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=159445", 
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=146375"
+},
+{
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13346", 
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=159445"
+},
+{
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13344",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13346" 
+},
+{
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=15176",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13344"
+},
+{
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=60803",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=15176"
+},
+{
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=35141",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=60803"
+},
+{
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=106921",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=35141"
+},
   {
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=34254",
    "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=12546"
@@ -1465,10 +1509,6 @@
   },
   {
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=162216",
-   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=193606"
-  },
-  {
-   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=162216",
    "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=165969"
   },
   {
@@ -1686,42 +1726,6 @@
   {
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=162216",
    "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=165970"
-  },
-{
-   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=195202", 
-   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=193607" 
-},
-{
-   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=146375", 
-   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=195202"
-},
-{
-   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=159445", 
-   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=146375"
-},
-{
-   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13346", 
-   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=159445"
-},
-{
-   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13344",
-   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13346" 
-},
-{
-   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=15176",
-   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13344"
-},
-{
-   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=60803",
-   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=15176"
-},
-{
-   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=35141",
-   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=60803"
-},
-{
-   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=106921",
-   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=35141"
-}
+  }
  ]
 }
