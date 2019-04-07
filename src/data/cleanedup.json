@@ -85,7 +85,7 @@
     "year": "1770"
    }
   },
-      {
+  {
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=55610",
    "value": {
     "name": "Nikolai Maksimovich Gunter",
@@ -1160,11 +1160,11 @@
  ],
  "edges": [
   {
-   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=162216",
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=193607",
    "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=193606"
   },
   {
-   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=193607",
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=162216",
    "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=193606"
   },
 {
