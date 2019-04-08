@@ -10,7 +10,8 @@
    "value": {
     "name": "Nikolai Maksimovich Gunter",
     "uni": "St. Petersburg State University",
-    "year": "1915"
+    "year": "1915",
+    "image": "https://s3.amazonaws.com/photos.geni.com/p3/2864/7418/53444836034fd941/mew42teg_medium.jpg"
    }
   },
     {
@@ -18,7 +19,8 @@
    "value": {
     "name": "Sergei L'vovich Sobolev",
     "uni": "St. Petersburg State University",
-    "year": "1929"
+    "year": "1929",
+    "image": "https://s3.amazonaws.com/photos.geni.com/p11/ce/a7/83/00/5344483855e06e57/nis45qej_medium.jpg"
    }
   },
     {
@@ -36,14 +38,16 @@
    "value": {
     "name": "Alexander Nikolaevich Korkin",
     "uni": "St. Petersburg State University",
-    "year": "1860"
+    "year": "1860",
+    "image": "http://matematika.gym075.edusite.ru/images/uchenie/korkin.jpg"
    }
   },
    {
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=1075586",
    "value": {
     "name": "Aleksei Nikolaevich Krylov",
-    "uni": "St. Petersburg Naval Academy"
+    "uni": "St. Petersburg Naval Academy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Alexey_Krylov_1910s.JPG/267px-Alexey_Krylov_1910s.JPG"
    }
   },
   {
@@ -51,7 +55,8 @@
    "value": {
     "name": "Iliya Nestorovich Vekua",
     "uni": "Ivane Javakhishvili Tbilisi State University",
-    "year": "1940"
+    "year": "1940",
+    "image": "https://upload.wikimedia.org/wikipedia/ru/e/ee/Vekua.jpg"
    }
   },
   {
@@ -59,7 +64,8 @@
    "value": {
     "name": "H. A. (Hubert Anson) Newton",
     "uni": "Yale University",
-    "year": "1850"
+    "year": "1850",
+    "image": "http://image.wikifoundry.com/image/3/7f15ebe8e4d1bfbdc8adc205bfefa11c/GW163H221"
    }
   },
   {
@@ -67,7 +73,8 @@
    "value": {
     "name": "E. H. (Eliakim Hastings) Moore",
     "uni": "Yale University",
-    "year": "1885"
+    "year": "1885",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Moore_Eliakim_2.jpeg"
    }
   },
   {
@@ -75,7 +82,8 @@
    "value": {
     "name": "Émile Borel",
     "uni": "École Normale Supérieure Paris",
-    "year": "1893"
+    "year": "1893",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Emile_Borel-1932.jpg/220px-Emile_Borel-1932.jpg"
    }
   },
   {
@@ -83,7 +91,8 @@
    "value": {
     "name": "Tadeusz Ważewski",
     "uni": "Université de Paris",
-    "year": "1924"
+    "year": "1924",
+    "image": "https://alchetron.com/cdn/tadeusz-waewski-b69f3c76-6114-4c90-9b27-602ebbdb72d-resize-750.jpeg"
    }
   },
   {
@@ -122,7 +131,7 @@
     "name": "Jean-Baptiste Joseph Fourier",
     "uni": "École Normale Supérieure ",
     "year": "1827",
-    "image": "https://genealogy.math.ndsu.nodak.edu/id.php?id=17981"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Fourier2.jpg/250px-Fourier2.jpg"
    }
   },
   {
@@ -130,7 +139,8 @@
    "value": {
     "name": "Michel Chasles",
     "uni": "École Polytechnique",
-    "year": "1814"
+    "year": "1814",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Michel_Chasles.jpg/267px-Michel_Chasles.jpg"
    }
   },
   {
@@ -139,7 +149,7 @@
     "name": "Gustav Peter Lejeune Dirichlet",
     "uni": "Rheinische Friedrich-Wilhelms-Universität Bonn",
     "year": "1827",
-    "image": "https://genealogy.math.ndsu.nodak.edu/id.php?id=17946"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Peter_Gustav_Lejeune_Dirichlet.jpg"
    }
   },
   {
@@ -148,7 +158,7 @@
     "name": "Rudolf Otto Sigismund Lipschitz",
     "uni": "Universität Berlin",
     "year": "1853",
-    "image": "https://genealogy.math.ndsu.nodak.edu/id.php?id=19964"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/RLipschitz.jpeg"
    }
   },
 
@@ -157,7 +167,8 @@
    "value": {
     "name": "Gaston Darboux",
     "uni": "École Normale Supérieure Paris",
-    "year": "1866"
+    "year": "1866",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Darboux.jpg/220px-Darboux.jpg"
    }
   },
   {
@@ -165,7 +176,8 @@
    "value": {
     "name": "Witold Pogorzelski",
     "uni": "Uniwersytet Jagielloński",
-    "year": "1919"
+    "year": "1919",
+    "image": "https://www.ipsb.nina.gov.pl/.thumbs/295x250_width/userfiles/image/articles/5728c5ccae9c0pogorzelski.jpg"
    }
   },
   {
@@ -173,7 +185,8 @@
    "value": {
     "name": "Wojciech Domitrz",
     "uni": "Politechnika Warszawska",
-    "year": "1995"
+    "year": "1995",
+    "image": "https://orzelinnowacji.rp.pl/upload/paragraph/59d63a0b897d8_person___pic.png"
    }
   },
   {
@@ -199,7 +212,8 @@
    "value": {
     "name": "Nicolai Vasilievich Bugaev",
     "uni": "Lomonosov Moscow State University",
-    "year": "1866"
+    "year": "1866",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/BugaevNV-MatematicheskySbornik1904-2.jpg/220px-BugaevNV-MatematicheskySbornik1904-2.jpg"
    }
   },
   {
@@ -207,7 +221,8 @@
    "value": {
     "name": "Dimitri Fedorowitsch Egorov",
     "uni": "Lomonosov Moscow State University",
-    "year": "1901"
+    "year": "1901",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Dmitri_Egorov.jpg/200px-Dmitri_Egorov.jpg"
    }
   },
   {
@@ -215,7 +230,8 @@
    "value": {
     "name": "Pavel Sergeevich Aleksandrov",
     "uni": "Lomonosov Moscow State University",
-    "year": "1927"
+    "year": "1927",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Paul_S_Alexandroff_2.jpg/180px-Paul_S_Alexandroff_2.jpg"
    }
   },
   {
@@ -223,7 +239,8 @@
    "value": {
     "name": "Aleksandr Gennadievich Kurosh",
     "uni": "Lomonosov Moscow State University",
-    "year": "1936"
+    "year": "1936",
+    "image": "https://upload.wikimedia.org/wikipedia/ru/6/60/%D0%9A%D1%83%D1%80%D0%BE%D1%88_%D0%90.%D0%93..jpg"
    }
   },
   {
@@ -239,7 +256,8 @@
    "value": {
     "name": "Edmund Puczylowski",
     "uni": "Uniwersytet Warszawski",
-    "year": "1975"
+    "year": "1975",
+    "image": "http://uma.ac.ir/files/algwork/edmund2.png"
    }
   },
  {
@@ -247,7 +265,8 @@
    "value": {
     "name": "Agata Smoktunowicz",
     "uni": "Institute of Mathematics, Polish Academy of Sciences",
-    "year": "2000"
+    "year": "2000",
+    "image": "https://info.maths.ed.ac.uk/assets/images/files-maths/people/67_agata.png"
    }
   },
  {
@@ -262,7 +281,8 @@
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=54543",
    "value": {
     "name": "Olga Aleksandrovna Ladyzhenskaya",
-    "uni": "St. Petersburg State University"
+    "uni": "St. Petersburg State University",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/O.Ladyzhenskaya.jpg"
    }
   },
   {
@@ -270,7 +290,8 @@
    "value": {
     "name": "Marek Burnat",
     "uni": "St. Petersburg State University",
-    "year": "1956"
+    "year": "1956",
+    "image": "https://www.ptm.org.pl/sites/default/files/imagecache/large/mburnat_2.jpg"
    }
   },
   {
@@ -283,7 +304,7 @@
   {
    "v": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_kisiel_konrad/",
    "value": {
-    "name": "Konrad Kisiel",
+     "name": "Konrad Kisiel",
     "uni": "Politechnika Warszawska"
    }
   },
@@ -313,7 +334,8 @@
    "v": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_chelminski_krzysztof/",
    "value": {
     "name": "Krzysztof Chełmiński",
-    "uni": "Politechnika Warszawska"
+    "uni": "Politechnika Warszawska",
+    "image": "http://szok.mini.pw.edu.pl/photos/chelminski_krzysztof.jpg"
    }
   },
   {
@@ -328,21 +350,24 @@
    "value": {
     "name": "Czesław Olech",
     "uni": "Polska Akademia Nauk",
-    "year": "1958"
+    "year": "1958",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Cz.Olech.jpg/379px-Cz.Olech.jpg"
    }
   },
   {
    "v": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_rzezuchowski_tadeusz/",
    "value": {
     "name": "Tadeusz Rzeżuchowski",
-    "uni": "Politechnika Warszawska"
+    "uni": "Politechnika Warszawska",
+    "image": "http://szok.mini.pw.edu.pl/photos/rzezuchowski_tadeusz.jpg"
    }
   },
   {
    "v": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_fryszkowski_andrzej/",
    "value": {
     "name": "Andrzej Fyszkowski",
-    "uni": "Politechnika Warszawska"
+    "uni": "Politechnika Warszawska",
+    "image": "http://szok.mini.pw.edu.pl/photos/fryszkowski_andrzej.jpg"
    }
   },
   {
@@ -358,7 +383,8 @@
    "value": {
     "name": "George David Birkhoff",
     "uni": "The University of Chicago",
-    "year": "1907"
+    "year": "1907",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/George_David_Birkhoff_1.jpg"
    }
   },
   {
@@ -366,7 +392,8 @@
    "value": {
     "name": "Clarence Raymond Adams",
     "uni": "Harvard University",
-    "year": "1922"
+    "year": "1922",
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/b0/Raymond_Clare_Archibald.jpg"
    }
   },
    {
@@ -374,7 +401,8 @@
    "value": {
     "name": "Anthony Perry Morse",
     "uni": "Brown University",
-    "year": "1937"
+    "year": "1937",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Anthony_Morse.jpeg"
    }
   },
   {
@@ -382,7 +410,8 @@
    "value": {
     "name": "Herbert Federer",
     "uni": "University of California, Berkeley",
-    "year": "1944"
+    "year": "1944",
+    "image": "https://www.math.brown.edu/federer2011/federer_photos/Thumbnails/2.jpg"
    }
   },
   {
@@ -390,7 +419,8 @@
    "value": {
     "name": "Frederick Justin Almgren, Jr.",
     "uni": "Brown University",
-    "year": "1962"
+    "year": "1962",
+    "image": "http://photos.geni.com/p3/2864/7418/534448360d636cb2/cis73nes_original.jpg"
    }
   },
   {
@@ -398,7 +428,8 @@
    "value": {
     "name": "Robert Vita Kohn",
     "uni": "Princeton University",
-    "year": "1979"
+    "year": "1979",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Robert_V._Kohn.jpg"
    }
   },
   {
@@ -406,7 +437,8 @@
    "value": {
     "name": "Piotr Rybka",
     "uni": "New York University ",
-    "year": "1990"
+    "year": "1990",
+    "image": "https://www.mimuw.edu.pl/~rybka/gorki.jpg"
    }
   },
   {
@@ -422,7 +454,8 @@
    "value": {
     "name": "Bogdan Bojarski",
     "uni": "Ivane Javakhishvili Tbilisi State University",
-    "year": "1955"
+    "year": "1955",
+    "image": "https://www.ptm.org.pl/sites/default/files/imagecache/large/bbojarski_foto_1.jpg"
    }
   },
   {
@@ -430,7 +463,8 @@
    "value": {
     "name": "Michał Misiurewicz",
     "uni": "Uniwersytet Warszawski",
-    "year": "1974"
+    "year": "1974",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Michal_Misiurewicz.jpg/440px-Michal_Misiurewicz.jpg"
    }
   },
   {
@@ -438,7 +472,8 @@
    "value": {
     "name": "Grzegorz Świątek",
     "uni": "Uniwersytet Warszawski",
-    "year": "1987"
+    "year": "1987",
+    "image": "http://szok.mini.pw.edu.pl/photos/swiatek_grzegorz.jpg"
    }
   },
  {
@@ -462,7 +497,8 @@
    "value": {
     "name": "Krzysztof Maurin",
     "uni": "Uniwersytet Warszawski",
-    "year": "1950"
+    "year": "1950",
+    "image": "http://www.deltami.edu.pl/temat/roznosci/historia_i_filozofia/2017/02/27/maurin3_thumb_190px.jpg"
    }
   },
  {
@@ -477,7 +513,8 @@
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=194543",
    "value": {
     "name": "Stanisław Janeczko",
-    "uni": "Politechnika Warszawska"
+    "uni": "Politechnika Warszawska",
+    "image": "http://www2.im.uj.edu.pl/kmm/uczestnicy//uczestnicy/organ/janeczko-s.jpg"
    }
   },
   {
@@ -485,7 +522,8 @@
    "value": {
     "name": "Zbigniew Ciesielski",
     "uni": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
-    "year": "1960"
+    "year": "1960",
+    "image": "https://www.ptm.org.pl/sites/default/files/gallery_assist/1/gallery_assist19/prev/zbigniew-ciesielski.jpg"
    }
   },
   {
@@ -493,7 +531,8 @@
    "value": {
     "name": "Stanisław Kwapień",
     "uni": "Institute of Mathematics, Polish Academy of Sciences",
-    "year": "1968"
+    "year": "1968",
+    "image": "https://mfi.ug.edu.pl/sites/default/files/styles/adaptive/public/_nodes/strona-mfi/61668/images/1.jpg?itok=HYTkfgXR"
    }
   },
  {
@@ -526,28 +565,30 @@
     "uni": "Politechnika Warszawska",
     "year": "2011"
    }
-  }, 
+  },
   {
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=165965",
    "value": {
     "name": "Krzysztof Bryś",
     "uni": "Politechnika Warszawska",
-    "year": "2003"
+    "year": "2003",
+    "image": "https://www.eksperci.pw.edu.pl/var/plain_site/storage/images/eksperci/krzysztof-brys/1953-8-pol-PL/Krzysztof-Brys_large.jpg"
    }
-  }, 
+  },
  {
    "v": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_debski_michal/",
    "value": {
     "name": "Michał Dębski",
     "uni": "Politechnika Warszawska"
    }
-  }, 
+  },
   {
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=134540",
    "value": {
     "name": "Andrzej Rotkiewicz",
     "uni": "Polska Akademia Nauk",
-    "year": "1963"
+    "year": "1963",
+    "image": "https://www.impan.pl/~rotkiewi/Rotkiewicz.gif"
    }
   },
   {
@@ -555,14 +596,16 @@
    "value": {
     "name": "Jarosław Grytczuk",
     "uni": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
-    "year": "1996"
+    "year": "1996",
+    "image": "https://i1.rgstatic.net/ii/profile.image/278994122493989-1443528791038_Q128/Jaroslaw_Grytczuk.jpg"
    }
   },
   {
    "v": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_traczyk_tomasz/",
    "value": {
     "name": "Tomasz Traczyk",
-    "uni": "Politechnika Warszawska"
+    "uni": "Politechnika Warszawska",
+    "image": "http://szok.mini.pw.edu.pl/photos/traczyk_tomasz.jpg"
    }
   },
   {
@@ -571,6 +614,7 @@
     "name": "Carl Friedrich Gauß",
     "uni": "Universität Helmstedt",
     "year": "1799",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Carl_Friedrich_Gauss_1840_by_Jensen.jpg/220px-Carl_Friedrich_Gauss_1840_by_Jensen.jpg",
     "wikiUrl": "https://genealogy.math.ndsu.nodak.edu/id.php?id=18231"
    }
   },
@@ -581,7 +625,7 @@
     "uni": "Uniwersytet Warszawski",
     "year": "1973"
    }
-  },  
+  },
   {
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=134775",
    "value": {
@@ -602,7 +646,8 @@
    "v": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_lesniewski_krzysztof/",
    "value": {
     "name": "Krzysztof Leśniewski",
-    "uni": "Politechnika Warszawska"
+    "uni": "Politechnika Warszawska",
+    "image": "https://wmp.uksw.edu.pl/sites/default/files/Le%C5%9Bniewski.jpg"
    }
   },
  {
@@ -617,7 +662,8 @@
    "value": {
     "name": "Ewa Bednarczuk",
     "uni": "Polska Akademia Nauk",
-    "year": "1986"
+    "year": "1986",
+    "image": "https://i1.rgstatic.net/ii/profile.image/567769562791936-1512378220066_Q128/Ewa_Bednarczuk.jpg"
    }
   },
   {
@@ -625,7 +671,8 @@
    "value": {
     "name": "Stefan Rolewicz",
     "uni": "Uniwersytet Warszawski",
-    "year": "1958"
+    "year": "1958",
+    "image": "https://www.impan.pl/~rolewicz/stefan.gif"
    }
   },
   {
@@ -633,7 +680,8 @@
    "value": {
     "name": "Bogusława Karpińska",
     "uni": "Politechnika Warszawska",
-    "year": "1999"
+    "year": "1999",
+    "image": "https://sspw.pl/sites/default/files/styles/medium/public/wyk%C5%82adowca.JPG?itok=PyWO5oaA"
    }
   },
   {
@@ -706,14 +754,16 @@
    "value": {
     "name": "Konstancja Bobecka",
     "uni": "Politechnika Warszawska",
-    "year": "2002"
+    "year": "2002",
+    "image": "https://i1.rgstatic.net/ii/profile.image/272964683825155-1442091260910_Q128/Konstancja_Bobecka.jpg"
    }
   },
   {
    "v": "https://ww2.mini.pw.edu.pl/wydzial/pracownicy/prac_rutkowski_marek/",
    "value": {
     "name": "Marek Rutkowski",
-    "uni": "Politechnika Warszawska"
+    "uni": "Politechnika Warszawska",
+    "image": "http://api.profiles.sydney.edu.au/AcademicProfiles/profile/resource?urlid=marek.rutkowski"
    }
   },
   {
@@ -746,7 +796,7 @@
   {
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=137002",
    "value": {
-    "name": "Janina Kotus ",
+    "name": "Janina Kotus",
     "uni": "Politechnika Warszawska",
     "year": "1983",
     "image": "http://szok.mini.pw.edu.pl/photos/kotus_janina.jpg"
@@ -755,9 +805,8 @@
   {
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=69809",
    "value": {
-    "name": "Karol Krzyżewski ",
-    "uni": "Politechnika Warszawska",
-    "year": "ska "
+    "name": "Karol Krzyżewski",
+    "uni": "Politechnika Warszawska"
    }
   },
   {
@@ -816,6 +865,7 @@
     "name": "Georgy Fedoseevich Voronoy",
     "uni": "St. Petersburg State University",
     "year": "1896",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Georgy_Voronoy.jpg/180px-Georgy_Voronoy.jpg",
     "wikiUrl": "https://genealogy.math.ndsu.nodak.edu/id.php?id=12544"
    }
   },
@@ -825,6 +875,7 @@
     "name": "Andrei Andreyevich Markov",
     "uni": "St. Petersburg State University",
     "year": "1884",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AAMarkov.jpg/220px-AAMarkov.jpg",
     "wikiUrl": "https://genealogy.math.ndsu.nodak.edu/id.php?id=12543"
    }
   },
@@ -834,6 +885,7 @@
     "name": "David Hilbert",
     "uni": "Universität Königsberg",
     "year": "1885",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Hilbert.jpg/220px-Hilbert.jpg",
     "wikiUrl": "https://genealogy.math.ndsu.nodak.edu/id.php?id=7298"
    }
   },
@@ -843,6 +895,7 @@
     "name": "Ferdinand Carl Louis Lindemann",
     "uni": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
     "year": "1873",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Carl_Louis_Ferdinand_von_Lindemann.jpg/200px-Carl_Louis_Ferdinand_von_Lindemann.jpg",
     "wikiUrl": "https://genealogy.math.ndsu.nodak.edu/id.php?id=7404"
    }
   },
@@ -852,6 +905,7 @@
     "name": "Felix Christian Klein",
     "uni": "Rheinische Friedrich-Wilhelms-Universität Bonn",
     "year": "1868",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Felix_Klein.jpeg/220px-Felix_Klein.jpeg",
     "wikiUrl": "https://genealogy.math.ndsu.nodak.edu/id.php?id=7401"
    }
   },
@@ -861,6 +915,7 @@
     "name": "Julius Plücker",
     "uni": "Philipps-Universität Marburg",
     "year": "1823",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Julius_Pl%C3%BCcker.jpg/220px-Julius_Pl%C3%BCcker.jpg",
     "wikiUrl": "https://genealogy.math.ndsu.nodak.edu/id.php?id=7402"
    }
   },
@@ -870,6 +925,7 @@
     "name": "Christian Ludwig Gerling",
     "uni": "Georg-August-Universität Göttingen",
     "year": "1812",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Christian_Ludwig_Gerling.jpg/220px-Christian_Ludwig_Gerling.jpg",
     "wikiUrl": "https://genealogy.math.ndsu.nodak.edu/id.php?id=29642"
    }
   },
@@ -956,7 +1012,7 @@
   {
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=75416",
    "value": {
-    "name": "Tadeusz Traczyk ",
+    "name": "Tadeusz Traczyk",
     "uni": "Politechnika Warszawska",
     "year": "1963",
     "wikiUrl": "https://pl.wikipedia.org/wiki/Tadeusz_Traczyk"
@@ -1078,15 +1134,16 @@
    }
   },
   {
-   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=193607", 
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=193607",
    "value": {
     "name": "Konstanty Junosza-Szaniawski",
     "uni": "Politechnika Warszawska",
-    "year": "2004"
+    "year": "2004",
+    "image": "https://static.goldenline.pl/user_photo/251/user_17915_36829d_huge.jpg"
    }
   },
   {
-   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=195202", 
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=195202",
    "value": {
     "name": "Adam Idzik",
     "uni": "Politechnika Warszawska",
@@ -1094,27 +1151,30 @@
    }
   },
   {
-   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=146375", 
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=146375",
    "value": {
     "name": "Jerzy Łoś",
     "uni": "Uniwersytet Wrocławski",
-    "year": " 1949"
+    "year": "1949",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Jerzy_Los_c1955.jpg/181px-Jerzy_Los_c1955.jpg"
    }
   },
   {
-   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=159445", 
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=159445",
    "value": {
     "name": "Jerzy Słupecki",
     "uni": " ",
-    "year": " 1938"
+    "year": "1938",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Prof._J._S%C5%82upecki.JPG/220px-Prof._J._S%C5%82upecki.JPG"
    }
   },
   {
-   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13346", 
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13346",
    "value": {
     "name": "Jan Łukasiewicz",
     "uni": "University of Lwów",
-    "year": "1906"
+    "year": "1906",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Jan_%C5%81ukasiewicz.jpg/220px-Jan_%C5%81ukasiewicz.jpg"
    }
   },
   {
@@ -1122,7 +1182,8 @@
    "value": {
     "name": "Kazimierz Twardowski",
     "uni": "Universität Wien",
-    "year": "1891"
+    "year": "1891",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Kazimierz_Twardowski_1933.jpg"
    }
   },
   {
@@ -1130,7 +1191,8 @@
    "value": {
     "name": "Franz Clemens Brentano",
     "uni": "Eberhard-Karls-Universität Tübingen",
-    "year": "1862"
+    "year": "1862",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Franz_Brentano1.png/220px-Franz_Brentano1.png"
    }
   },
   {
@@ -1138,7 +1200,8 @@
    "value": {
     "name": "Friedrich Adolf Trendelenburg",
     "uni": "Universität Berlin",
-    "year": "1826"
+    "year": "1826",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Trendelenburg.jpg"
    }
   },
   {
@@ -1146,7 +1209,8 @@
    "value": {
     "name": "Karl Reinhold",
     "uni": "Friedrich-Schiller-Universität Jena",
-    "year": "1787"
+    "year": "1787",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Reinhold_Reinhold1825.jpg/220px-Reinhold_Reinhold1825.jpg"
    }
   },
   {
@@ -1154,7 +1218,8 @@
    "value": {
     "name": "Immanuel Kant",
     "uni": "Universität Königsberg",
-    "year": "1770"
+    "year": "1770",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Kant_gemaelde_3.jpg/220px-Kant_gemaelde_3.jpg"
    }
   }
  ],
@@ -1164,24 +1229,24 @@
    "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=193606"
   },
 {
-   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=195202", 
-   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=193607" 
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=195202",
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=193607"
 },
 {
-   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=146375", 
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=146375",
    "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=195202"
 },
 {
-   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=159445", 
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=159445",
    "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=146375"
 },
 {
-   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13346", 
+   "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13346",
    "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=159445"
 },
 {
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13344",
-   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13346" 
+   "w": "https://genealogy.math.ndsu.nodak.edu/id.php?id=13346"
 },
 {
    "v": "https://genealogy.math.ndsu.nodak.edu/id.php?id=15176",

@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import Graph from 'vis-react';
 import './App.css';
-import data from './data/cleanedup';
+import data from './data/tree_declaration';
 import Modal from 'react-modal';
 import Iframe from 'react-iframe';
 import SlidingPane from 'react-sliding-pane';
